@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Dawood Ikram
+## Studying IT at Hogeschool Inholland Haarlem, Netherlands
+I'm a second-year Information Technology student passionate about backend development and artificial intelligence. My aspiration is to architect sophisticated systems that drive impactful solutions. I thrive on creating scalable and efficient infrastructures that pave the way for innovation and seamless user experiences
 
 <!--
 **Dawoodikram482/Dawoodikram482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
