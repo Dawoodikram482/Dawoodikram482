@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Dawood Ikram</h1>
 <h3 align="center"> Studying IT at Hogeschool Inholland Haarlem,Netherlands</h3>
-<p align="center">I'm a second-year Information Technology student passionate about backend development and artificial intelligence. My aspiration is to architect sophisticated systems that drive impactful solutions. I thrive on creating scalable and efficient infrastructures that pave the way for innovation and seamless user experiences</p>
+<p align="center">I'm a third-year Information Technology student passionate about backend development and artificial intelligence. My aspiration is to architect sophisticated systems that drive impactful solutions. I thrive on creating scalable and efficient infrastructures that pave the way for innovation and seamless user experiences</p>
 <h3 align="left">🔧 Technologies & Tools</h3>
 <p align = "left"> <h2 align = "left"> Languages: </h2> </p>
 <p align = "left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+      <img src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" alt="C#" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
