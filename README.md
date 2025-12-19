@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Dawood Ikram</h1>
 <h3 align="center"> Studying IT at Hogeschool Inholland Haarlem,Netherlands</h3>
-<p align="center">I'm a third-year Information Technology student passionate about backend development and artificial intelligence. My aspiration is to architect sophisticated systems that drive impactful solutions. I thrive on creating scalable and efficient infrastructures that pave the way for innovation and seamless user experiences</p>
+<p align="center">I'm a fourth-year Information Technology student passionate about backend development and artificial intelligence. My aspiration is to architect sophisticated systems that drive impactful solutions. I thrive on creating scalable and efficient infrastructures that pave the way for innovation and seamless user experiences</p>
 <h3 align="left">🔧 Technologies & Tools</h3>
 <p align = "left"> <h2 align = "left"> Languages: </h2> </p>
 <p align = "left">
